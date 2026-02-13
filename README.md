@@ -66,14 +66,6 @@
 
 ###
 
-<h3 align="left">🏆   My Trophy :</h3>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royyanfathh" alt="royyanfathh" /></a> </p>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
