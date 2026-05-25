@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app?user=royyanfathh&theme=tokyonight" height="220" />
+  <img src="https://streak-stats.demolab.com?user=royyanfathh&theme=tokyonight&v=2" height="220" />
 </div>
 
 ###
