@@ -6,13 +6,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/royyan-fathullah-090158338" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  
   <a href="https://www.instagram.com/just_yaann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+  
   <a href="https://dribbble.com/royyanfathh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo" />
+  </a>
+
+  <a href="https://royyanfathh.my.id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
 
