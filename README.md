@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=royyanfathh&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=royyanfathh&theme=tokyonight&cache_seconds=1&v=3&t=1748291000" height="180"/>
 </div>
 
 ###
