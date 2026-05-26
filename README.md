@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royyanfathh&layout=compact&theme=tokyonight&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=royyanfathh&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 ###
