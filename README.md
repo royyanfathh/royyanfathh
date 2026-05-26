@@ -101,6 +101,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royyanfathh&layout=compact&theme=tokyonight&langs_count=8" height="180" />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royyanfathh/royyanfathh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royyanfathh/royyanfathh/output/pacman-contribution-graph.svg">
