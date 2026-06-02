@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm an Software Engineering student from STMIK IKMI Cirebon.<br><br>🔭 Building and learning as a future software developer<br><br>📚 Exploring UI/UX, frontend, and backend<br><br>⚡ I enjoy coding, design, and tech exploration</p>
+<p align="left">I'm an Software Engineering student from STMIK IKMI Cirebon.<br><br>🔭 Building and learning as a future software developer<br><br>📚 Exploring UI/UX, frontend, and backend<br><br>⚡ I enjoy coding and tech exploration</p>
 
 ###
 
